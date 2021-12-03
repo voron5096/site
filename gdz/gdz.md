@@ -1,1 +1,5 @@
 ## Растворы. Способы выражения концентрации растворов (29 ноября)
+![image](https://user-images.githubusercontent.com/70198995/144660696-361aa5d1-fbc3-49a5-a8f7-889de301dcca.png)
+![image](https://user-images.githubusercontent.com/70198995/144660719-faebeec5-120d-4070-8f02-14dc9702fe9b.png)
+![image](https://user-images.githubusercontent.com/70198995/144660735-19fd9af4-c17d-4a59-9d5c-63c93bf36284.png)
+![image](https://user-images.githubusercontent.com/70198995/144660753-1210511e-1659-4997-8bc3-2b958bd3d63c.png)
