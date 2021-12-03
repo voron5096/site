@@ -1,0 +1,91 @@
+@font-face {
+	font-family: text;	
+	src: url("https://1432.vercel.app/YouTubeSansDark-Black.ttf") format('truetype'); /* Путь к файлу со шрифтом */
+	font-weight: normal;
+	font-style: normal;
+}
+
+body {
+	font-size: 25px;
+	font-family: text;
+}
+
+.gist1 { /* Блок полного кода */
+    max-height: 500px;
+    font-size: 15px;
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+}
+
+.gist-meta {
+  display: none;
+}
+
+a {
+	text-decoration: underline; /* Добавляем подчеркивание */
+}
+
+.mc-c {
+	color: white;
+}
+
+/* Light mode */
+@media (prefers-color-scheme: light) {
+    :root {
+        --color-scheme-background: white;
+        --color-scheme-text-color: black;
+    }
+		a {
+			color: black; /* Цвет обычной ссылки */
+		}
+}
+
+/* Тёмная тема */
+@media (prefers-color-scheme: dark) {
+    :root {
+        --color-scheme-background: black;
+        --color-scheme-text-color: white;
+    }
+		a {
+			color: white; /* Цвет обычной ссылки */
+		}
+}
+
+/* Usage */
+html {
+    background: var(--color-scheme-background);
+    color: var(--color-scheme-text-color);
+}
+
+a:visited {
+    color: none; /* Цвет посещённой ссылки */
+   }
+a:hover {
+    color: red; /* Цвет ссылки при наведении на нее курсора мыши */
+   }
+
+/*                 Отключение рекламы         */
+.thumbnails-a .videoCube.syndicatedItem {
+	display: none
+}
+
+.thumbnails-a {
+	display: none
+}
+
+.videoCube.syndicatedItem {
+	display: none
+}
+
+#container-top {
+	display: none
+}
+
+[id^="container-"] {
+    display: none
+}
+
+/*                 Отключение рекламы         */
