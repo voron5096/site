@@ -10,12 +10,16 @@ body {
 	font-family: text;
 }
 
+/**************** КЛАССЫ ДЛЯ САЙТА МОИ ****************/
 .games {
   font-size: 20px;
   color: rgb(41, 250, 4)
 }
 
-
+.important {
+  color: red;
+}
+/**************** КЛАССЫ ДЛЯ САЙТА МОИ ****************/
 a {
 	text-decoration: underline; /* Добавляем подчеркивание */
 }
