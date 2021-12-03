@@ -1,6 +1,6 @@
 @font-face {
 	font-family: text;	
-	src: url("https://1432.vercel.app/YouTubeSansDark-Black.ttf") format('truetype'); /* Путь к файлу со шрифтом */
+	src: url("YouTubeSansDark-Black.ttf") format('truetype'); /* Путь к файлу со шрифтом */
 	font-weight: normal;
 	font-style: normal;
 }

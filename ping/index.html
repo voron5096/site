@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+	<meta charset="UTF-8">
+	<title>Заставка с пинг-понгом</title>
+	<!-- подключаем файл со стилями -->
+	<link rel="stylesheet" href="style.css">
+	<link rel="icon" href="https://i.ibb.co/JpcfmBk/image.png" type="image/png" />
+</head>
+
+<body>
+	<!-- указываем внутренние размеры графического контейнера, чтобы привязать к ним все элементы -->
+	<svg viewBox="0 0 100 75">
+		<!-- рисуем левую и правую платформы -->
+		<path d="m2,0 v15" />
+		<path d="m98,0 v15" />
+		<!-- рисуем оба круга на одном и том же месте -->
+		<circle cx="50" cy="68" r="5" />
+		<circle cx="50" cy="68" r="5" />
+	</svg>
+</body>
+
+</html>
