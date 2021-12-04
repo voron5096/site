@@ -5,7 +5,7 @@ for x in 0,1:
   for y in 0,1:
     for z in 0,1:
       for w in 0,1:
-        F = not(x and y) and (y or z) or not(w)
+        #F = not(x and y) and (y or z) or not(w)
         if F == 0:
           print(y,w,x,z,F)
 ```
@@ -21,18 +21,18 @@ for x in 0,1:
 ```python
 for s in range(10000):
     res = s
-    n = 1
-    while s < 45:
-        s = s + 6
-        n = n * 4
-    if n == 256:
+
+# КОД
+
+    if n == #ОТВЕТ:
         print(res)
 ```
 
 ## 4 задание
 ```python
-Палитра равна: i = I / k = (145 * 1024 * 8) / 512 * 265 = 8,7
-N = 2^8 ; i = 8
+# Мак. количество цветов в палитре = N
+Палитра равна: i = I / k = (Объём файла КБ переводим в биты) / (разрешение) = i
+N = 2^i ; 
 ```
 
 ## 5 задание
@@ -56,15 +56,7 @@ for x in itertools.product('ИГРА', repeat=4):
 НЕ СМЕШИТЕ МЕНЯ :)
 
 ## 8 задание
-```python
-26 + 10 + 8 = 44 = 64 (в большую сторону)
-64 = 2^i
-i = 6 (в большую сторону)
-11 * 6 = 66 бит
-72 / 8 = 9 байт
-30 - 9 = 21 байт
-1560 / 52 = 30
-```
+<img src="https://i.ibb.co/yX9XKSr/image.png" width="80%"/>
 
 ## 9 задание
 ```python
@@ -96,15 +88,11 @@ print(result.count('7'))
 
 ## 13 задание
 ```python
-for x in range(70):
+for x in range(1000):
     res = x
-    L = 0
-    M = 0
-    while x > 0:
-        M = M + 2
-        if x % 8 != 0:
-            L = L + 1
-        x = x // 8
-    if L == 2 and M == 6:
+
+#КОД
+
+    if L == #ОТВЕТ and M == #ОТВЕТ:
         print(res)
 ```
