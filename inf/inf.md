@@ -81,10 +81,19 @@ print(result.count('7'))
 ```
 
 ## 11 задание
-Мейби через формулу?
+```python
+for A in range(1,500):
+    OK = 1
+    for x in range(1,1000):
+        OK *= ((x % 40 == 0) or (x % 64 == 0))<=(x % A== 0)
+    if OK:
+        print( A )
+```
 
 ## 12 задание
-Мейби через python
+```python
+# код последовательности
+```
 
 ## 13 задание
 ```python
