@@ -1,3 +1,2 @@
 # site
 publiс 0RMNVXdAdzuzXxr9pgXRFVJHbBui8jOQhyDUk2qARUo
-firefox AYDN EFJ1 K6TG SY17 FAWF K9G2 S2CD KP0J
