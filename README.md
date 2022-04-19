@@ -3,7 +3,7 @@ http://sewin.me/
 
 http://crypt-online.ru/crypts/aes/
 
-https://app.element.io/?pk_vid=d4b162e0e6c511851631808451ab93fb#/room/!oojpNavOaWBElMKzYR:matrix.org
+https://app.element.io/#/room/!oojpNavOaWBElMKzYR:matrix.org
 
 publiс 0RMNVXdAdzuzXxr9pgXRFVJHbBui8jOQhyDUk2qARUo
 
