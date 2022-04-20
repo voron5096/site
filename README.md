@@ -7,6 +7,8 @@ https://app.element.io/#/room/!oojpNavOaWBElMKzYR:matrix.org
 
 publiс 0RMNVXdAdzuzXxr9pgXRFVJHbBui8jOQhyDUk2qARUo
 
+https://app.element.io/#/room/!uYsUnBVRIovkGsIysR:matrix.org
+
 ibtnReIVGKVOiDD4FJ43zg
 
 ```
