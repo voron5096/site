@@ -5,7 +5,7 @@ http://crypt-online.ru/crypts/aes/
 
 publiс 0RMNVXdAdzuzXxr9pgXRFVJHbBui8jOQhyDUk2qARUo
 
-https://app.element.io/#/room/!uYsUnBVRIovkGsIysR:matrix.org
+https://app.element.io/#/room/!oojpNavOaWBElMKzYR:matrix.org
 
 <br>
 
